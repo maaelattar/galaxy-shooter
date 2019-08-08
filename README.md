@@ -42,7 +42,7 @@ Game consists of:
 Project is: for development purpose
 
 ## Inspiration
-Project inspired by [The Ultimate Guide to Real World Applications with Unity](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/) udemy course
+Project inspired by [The Ultimate Guide To Game Development With Unity](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/) udemy course
 
 ## Contact
 Created by [Mohamed Abdelnaby Elattar](https://www.linkedin.com/in/maaelattar) - feel free to contact me!
